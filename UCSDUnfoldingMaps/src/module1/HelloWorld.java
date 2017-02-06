@@ -76,7 +76,7 @@ public class HelloWorld extends PApplet
 		
 		
 		map2 = new UnfoldingMap(this, 50, 50, 350, 500, provider);
-		ssss
+	
 		// TODO: Add code here that creates map2 
 		// Then you'll modify draw() below
 
